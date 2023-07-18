@@ -1,7 +1,5 @@
 #Certifique-se de ter um arquivo chamado "palavras.txt" no mesmo diretório do código Python. Cada palavra deve ser listada em uma linha separada.
 
-
-
 import random
 
 # Função para escolher uma palavra aleatória do arquivo "palavras.txt"
